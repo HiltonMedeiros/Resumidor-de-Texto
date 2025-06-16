@@ -88,3 +88,7 @@ api_key="SUA_CHAVE_SECRETA_DO_GEMINI_AQUI"
 streamlit run app.py
 ```
 O aplicativo será aberto no seu navegador local, geralmente em `http://localhost:8501`.
+
+## 🚀 Site usado para Deploy
+ 
+* Acesse [share.streamlit.io](https://share.streamlit.io/) e crie sua conta, preferencialmente usando a opção "Continue with GitHub" para uma integração mais fácil.
